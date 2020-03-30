@@ -1,0 +1,15 @@
+* nyan-bar
+
+*使用*
+#+BEGIN_SRC typescript
+  import { NyanBar } from 'nyan-bar';
+
+  window.onload = () => {
+    const e = document.getElementById('div');
+    const scrollTarget = document.getElementById('box');
+    NyanBar.New({
+      width: 1000,
+      height: 64
+    }).create(e!, scrollTarget!);
+  };
+#+END_SRC
