@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "nyan-bar": "^0.1.0"
+    "nyan-mode": "^0.1.1"
   },
   "devDependencies": {
     "html-webpack-plugin": "^4.0.2",

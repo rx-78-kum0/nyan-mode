@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "dev": "lerna run --scope nyan-bar build && lerna run --scope example dev"
+    "dev": "lerna run --scope nyan-mode build && lerna run --scope example dev"
   },
   "workspaces": [
     "packages/*"

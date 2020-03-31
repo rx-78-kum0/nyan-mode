@@ -53,6 +53,7 @@ testem.log
 /.log
 /.ccls-cache
 a.out
+tsconfig.tsbuildinfo
 
 # System Files
 .DS_Store

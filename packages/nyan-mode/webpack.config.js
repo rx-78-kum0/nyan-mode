@@ -7,7 +7,7 @@ module.exports = {
     path: Path.join(__dirname, './dist'),
     filename: 'index.js',
     globalObject: 'this',
-    library: 'nyan-bar',
+    library: 'nyan-mode',
     publicPath: '',
     libraryTarget: 'umd'
   },
