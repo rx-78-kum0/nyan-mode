@@ -1,6 +1,6 @@
 {
   "name": "nyan-mode",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Emacs's nyan-mode for Web.",
   "keywords": [
     "nyan"
